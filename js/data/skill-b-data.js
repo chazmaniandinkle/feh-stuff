@@ -1154,7 +1154,7 @@ module.exports = [
     icon: "49-10",
     prev: ["Special Spiral 2"],
     exclude: [{moveType:"Flying"}, {moveType:"Cavalry"}, {weaponType:"Staff"}],
-    effect: "If Special triggers before or during combat, grants Special cooldown count-1 after combat."
+    effect: "If Special triggers before or during combat, grants Special cooldown count-2 after combat."
   },
   {
     name: "Swordbreaker 1",
