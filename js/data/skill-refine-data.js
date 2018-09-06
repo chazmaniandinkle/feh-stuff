@@ -3820,6 +3820,7 @@ module.exports = {
       name: "Panic Ploy",
       icon: "49-3",
       cost: 1,
+      stats: {hp: 3},
       effect: "Inflicts Spd-5. If unit initiates combat, unit attacks twice. At start of turn, bonuses become penalties on all foes in cardinal directions with HP 1 or more lower than unit through foe's next action."
     },
     {
