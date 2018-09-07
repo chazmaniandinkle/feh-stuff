@@ -1361,6 +1361,7 @@ module.exports = [
       { name: "Steel Axe", rarity: 3 },
       { name: "Hammer", rarity: 4 },
       { name: "Hammer+", rarity: 5 },
+      { name: "Cherche's Axe", rarity: 5 },
       { name: "Pivot", rarity: 4 },
       { name: "Attack +1", rarity: 3 },
       { name: "Attack +2", rarity: 3 },
