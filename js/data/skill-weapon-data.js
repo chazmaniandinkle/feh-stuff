@@ -4005,6 +4005,7 @@ module.exports = [
     range: 1,
     weaponType: "Axe",
     colorType: "Green",
+    stats: {def: 3},
     exclusive: ["Walhart"],
     prev: ["Silver Axe"],
     effect: "Grants Def+3. If the number of foes within 2 spaces (excluding target) ≥ the number of allies within 2 spaces (excluding unit), grants Atk/Spd/Def/Res+4 during combat."
