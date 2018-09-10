@@ -3784,7 +3784,7 @@ module.exports = {
       name: "Brazen Atk/Spd",
       icon: "49-4",
       cost: 1,
-      effect: "Grants Atk/Spd+5 during combat. After combat, if unit attacked, deals 5 damage to unit. If unit's HP ≤ 80% at the start of combat, grants Atk/Spd+3 during combat."
+      effect: "Grants Atk/Spd+5 during combat. After combat, if unit attacked, deals 5 damage to unit. At start of combat, if unit's HP ≤ 80%, grants Atk/Spd+7 during combat."
     },
     {
       name: "+Atk",
